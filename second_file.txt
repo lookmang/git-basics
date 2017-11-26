@@ -1,0 +1,3 @@
+“This is the second file in the repo” git add second_file.txt
+“Second file needs a second line” git status
+“Second file needs a second line” git status
